@@ -1360,3 +1360,543 @@ Script Stack (0 frames) :
 [2024.04.24-16.12.20:517][465]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.017
 [2024.04.24-16.22.20:942][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
 [2024.04.24-16.22.20:944][266]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.013
+[2024.04.24-16.32.21:621][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.24-16.32.21:622][116]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.04.24-16.42.22:094][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.24-16.42.22:096][917]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.014
+[2024.04.24-16.44.27:723][338]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/teebe/OneDrive/Documents/GitHub/3DGroup/Hard surface texture/Ben's Textures/24_04_24 models/plank1.fbx)
+[2024.04.24-16.44.27:767][338]LogFbx: Loading FBX Scene from ../../../../../../Users/teebe/OneDrive/Documents/GitHub/3DGroup/Hard surface texture/Ben's Textures/24_04_24 models/plank1.fbx
+[2024.04.24-16.44.28:073][338]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.24-16.44.29:992][338]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.24-16.44.30:166][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.30:167][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.30:196][338]LogTexture: Display: Building textures: /Game/Metal_Galvanized_001_basecolor.Metal_Galvanized_001_basecolor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.30:197][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.30:197][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.30:231][338]LogTexture: Display: Building textures: /Game/Metal_Galvanized_001_roughness.Metal_Galvanized_001_roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.30:232][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.30:232][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.30:247][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.30:251][338]LogFbx: Display: Triangulating static mesh Plane.001
+[2024.04.24-16.44.30:270][338]LogTexture: Display: Building textures: /Game/Metal_Galvanized_001_normal.Metal_Galvanized_001_normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.30:287][338]LogFbx: Display: Triangulating static mesh Plane.003
+[2024.04.24-16.44.30:336][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.30:336][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.30:364][338]LogTexture: Display: Building textures: /Game/Wood_plancks_004_COLOR.Wood_plancks_004_COLOR (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.30:366][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.30:367][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.30:375][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.30:376][338]LogFbx: Display: Triangulating static mesh axe
+[2024.04.24-16.44.30:386][338]LogFbx: Display: Triangulating static mesh AxeHead
+[2024.04.24-16.44.30:390][338]LogTexture: Display: Building textures: /Game/Wood_plancks_004_NRM.Wood_plancks_004_NRM (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.30:429][338]LogFbx: Display: Triangulating static mesh hammer type 1
+[2024.04.24-16.44.30:441][338]LogFbx: Display: Triangulating static mesh HammerHead.001
+[2024.04.24-16.44.30:490][338]LogFbx: Display: Triangulating static mesh mallet
+[2024.04.24-16.44.30:494][338]LogFbx: Display: Triangulating static mesh HammerHead
+[2024.04.24-16.44.30:520][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.30:521][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.30:547][338]LogTexture: Display: Building textures: /Game/Wood_014_COLOR.Wood_014_COLOR (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.30:550][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.30:551][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.30:559][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.30:559][338]LogFbx: Display: Triangulating static mesh Cylinder
+[2024.04.24-16.44.30:583][338]LogTexture: Display: Building textures: /Game/Wood_014_ROUGH.Wood_014_ROUGH (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.30:584][338]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2024.04.24-16.44.30:816][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.30:823][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.31:036][338]LogTexture: Display: Building textures: /Game/rock_boulder_dry_diff_4k.rock_boulder_dry_diff_4k (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.31:461][338]LogEditorFactories: Display: Image imported as : TSF RGBA16F
+[2024.04.24-16.44.31:615][338]LogMaterial: Warning: [AssetLog] /Game/Stone.Stone: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Linear Color for /Game/rock_boulder_dry_rough_4k.rock_boulder_dry_rough_4k
+
+[2024.04.24-16.44.31:615][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.31:617][338]LogFbx: Display: Triangulating static mesh Cylinder.002
+[2024.04.24-16.44.31:623][338]LogFbx: Display: Triangulating static mesh Cylinder.003
+[2024.04.24-16.44.31:652][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.31:652][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.31:672][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.31:672][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.31:680][338]LogTexture: Display: Building textures: /Game/rock_boulder_dry_rough_4k.rock_boulder_dry_rough_4k (RGBA16F, 4096x4096 x1x1x1) (Required Memory Estimate: 640.062492 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.31:709][338]LogTexture: Display: Building textures: /Game/Clay_001_roughness.Clay_001_roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.31:710][338]LogTexture: Display: Building textures: /Game/Clay_001_basecolor.Clay_001_basecolor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.31:711][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.31:712][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.31:725][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.31:727][338]LogFbx: Display: Triangulating static mesh Cube.002
+[2024.04.24-16.44.31:753][338]LogTexture: Display: Building textures: /Game/Clay_001_normal.Clay_001_normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.31:774][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.31:774][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.31:784][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.31:786][338]LogFbx: Display: Triangulating static mesh Cube.003
+[2024.04.24-16.44.31:789][338]LogFbx: Display: Triangulating static mesh Clay
+[2024.04.24-16.44.31:799][338]LogTexture: Display: Building textures: /Game/360_F_366101427_8yazUJK82fDrLi4YtpnQO3DJ4dTygxoe.360_F_366101427_8yazUJK82fDrLi4YtpnQO3DJ4dTygxoe (TFO_AutoDXT, 540x360 x1x1x1) (Required Memory Estimate: 30.714355 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.31:871][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.31:871][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.31:893][338]LogTexture: Display: Building textures: /Game/Ground_Wet_002_basecolor.Ground_Wet_002_basecolor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.31:894][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.31:895][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.31:936][338]LogTexture: Display: Building textures: /Game/Ground_Wet_002_roughness.Ground_Wet_002_roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.31:938][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.31:939][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.31:948][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.31:949][338]LogFbx: Display: Triangulating static mesh dirt
+[2024.04.24-16.44.31:949][338]LogFbx: Display: Triangulating static mesh wooden pot.001
+[2024.04.24-16.44.31:953][338]LogFbx: Display: Triangulating static mesh wooden pot.002
+[2024.04.24-16.44.31:956][338]LogFbx: Display: Triangulating static mesh nails 1.002
+[2024.04.24-16.44.31:970][338]LogTexture: Display: Building textures: /Game/Ground_Wet_002_normal.Ground_Wet_002_normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.31:994][338]LogFbx: Display: Triangulating static mesh nails 2.002
+[2024.04.24-16.44.32:066][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.32:076][338]LogTexture: Display: Building textures: /Game/darker_plank_wood.darker_plank_wood (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.32:089][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.32:091][338]LogFbx: Display: Triangulating static mesh post.002
+[2024.04.24-16.44.32:128][338]LogFbx: Display: Triangulating static mesh sign 2.002
+[2024.04.24-16.44.32:134][338]LogFbx: Display: Triangulating static mesh sign 2.001
+[2024.04.24-16.44.32:165][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.32:165][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.32:201][338]LogTexture: Display: Building textures: /Game/Wood_plancks_004_COLOR_ncl1_1.Wood_plancks_004_COLOR_ncl1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.32:204][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.32:204][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.32:214][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.32:216][338]LogFbx: Display: Triangulating static mesh box.002
+[2024.04.24-16.44.32:228][338]LogFbx: Display: Triangulating static mesh cross section 1.002
+[2024.04.24-16.44.32:229][338]LogTexture: Display: Building textures: /Game/Wood_plancks_004_NRM_ncl1_1.Wood_plancks_004_NRM_ncl1_1 (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.32:230][338]LogFbx: Display: Triangulating static mesh cross section 2.002
+[2024.04.24-16.44.32:232][338]LogFbx: Display: Triangulating static mesh cross section 3.002
+[2024.04.24-16.44.32:235][338]LogFbx: Display: Triangulating static mesh branches.002
+[2024.04.24-16.44.34:181][338]LogFbx: Display: Triangulating static mesh Curvy
+[2024.04.24-16.44.34:201][338]LogFbx: Display: Triangulating static mesh post 1.002
+[2024.04.24-16.44.34:221][338]LogFbx: Display: Triangulating static mesh anvil hammer.001
+[2024.04.24-16.44.34:231][338]LogFbx: Display: Triangulating static mesh axe.001
+[2024.04.24-16.44.34:470][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.34:474][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.34:520][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.34:521][338]LogFbx: Display: Triangulating static mesh BezierCurve.001
+[2024.04.24-16.44.34:643][338]LogFbx: Display: Triangulating static mesh bucket.004
+[2024.04.24-16.44.34:725][338]LogTexture: Display: Building textures: /Game/close-up-rope-texture-composition.close-up-rope-texture-composition (BGRA8, 5461x3331 x1x1x1) (Required Memory Estimate: 532.064743 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.34:727][338]LogFbx: Display: Triangulating static mesh bottom bucket.004
+[2024.04.24-16.44.34:756][338]LogFbx: Display: Triangulating static mesh metal bucket ring.004
+[2024.04.24-16.44.34:865][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.34:865][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.34:875][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.34:877][338]LogFbx: Display: Triangulating static mesh cart base
+[2024.04.24-16.44.34:886][338]LogFbx: Display: Triangulating static mesh axel
+[2024.04.24-16.44.34:898][338]LogTexture: Display: Building textures: /Game/123_old_wood_plank_PBR_texture-seamless.123_old_wood_plank_PBR_texture-seamless (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.34:934][338]LogFbx: Display: Triangulating static mesh cart beam right
+[2024.04.24-16.44.34:960][338]LogFbx: Display: Triangulating static mesh cart shelf
+[2024.04.24-16.44.34:963][338]LogFbx: Display: Triangulating static mesh cart supporting beam left
+[2024.04.24-16.44.34:965][338]LogFbx: Display: Triangulating static mesh cart supporting beam right
+[2024.04.24-16.44.34:968][338]LogFbx: Display: Triangulating static mesh cart wall left
+[2024.04.24-16.44.35:544][338]LogFbx: Display: Triangulating static mesh cart wall right
+[2024.04.24-16.44.35:682][338]LogFbx: Display: Triangulating static mesh wheel base left
+[2024.04.24-16.44.35:709][338]LogFbx: Display: Triangulating static mesh wheel base right
+[2024.04.24-16.44.35:735][338]LogFbx: Display: Triangulating static mesh wheel holders
+[2024.04.24-16.44.35:754][338]LogFbx: Display: Triangulating static mesh wheel inner left
+[2024.04.24-16.44.35:837][338]LogFbx: Display: Triangulating static mesh wheel inner right
+[2024.04.24-16.44.35:929][338]LogFbx: Display: Triangulating static mesh wheel inner support left
+[2024.04.24-16.44.35:938][338]LogFbx: Display: Triangulating static mesh wheel inner supports right
+[2024.04.24-16.44.35:946][338]LogFbx: Display: Triangulating static mesh wheel rim left
+[2024.04.24-16.44.35:967][338]LogFbx: Display: Triangulating static mesh wheel rim right
+[2024.04.24-16.44.35:987][338]LogFbx: Display: Triangulating static mesh Circle.001
+[2024.04.24-16.44.36:046][338]LogFbx: Display: Triangulating static mesh Cube.013
+[2024.04.24-16.44.36:262][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.36:292][338]LogTexture: Display: Building textures: /Game/dark_clay.dark_clay (TFO_AutoDXT, 4256x2832 x1x1x1) (Required Memory Estimate: 827.675781 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.36:317][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.36:318][338]LogFbx: Display: Triangulating static mesh Cube.017
+[2024.04.24-16.44.36:405][338]LogFbx: Display: Triangulating static mesh Cube.014
+[2024.04.24-16.44.36:484][338]LogFbx: Display: Triangulating static mesh Cube.015
+[2024.04.24-16.44.36:581][338]LogFbx: Display: Triangulating static mesh Cube.016
+[2024.04.24-16.44.36:625][338]LogFbx: Display: Triangulating static mesh Cube.018
+[2024.04.24-16.44.36:697][338]LogFbx: Display: Triangulating static mesh Cube.019
+[2024.04.24-16.44.36:750][338]LogFbx: Display: Triangulating static mesh Cylinder.021
+[2024.04.24-16.44.36:794][338]LogFbx: Display: Triangulating static mesh Cylinder.022
+[2024.04.24-16.44.36:807][338]LogFbx: Display: Triangulating static mesh Cylinder.020
+[2024.04.24-16.44.36:834][338]LogFbx: Display: Triangulating static mesh fence gate
+[2024.04.24-16.44.36:950][338]LogFbx: Display: Triangulating static mesh Fence without end.001
+[2024.04.24-16.44.36:994][338]LogFbx: Display: Triangulating static mesh Fence without end.002
+[2024.04.24-16.44.37:033][338]LogFbx: Display: Triangulating static mesh Fence without end.003
+[2024.04.24-16.44.37:076][338]LogFbx: Display: Triangulating static mesh Fence without end.004
+[2024.04.24-16.44.37:091][338]LogFbx: Display: Triangulating static mesh hammer type 1.001
+[2024.04.24-16.44.37:134][338]LogFbx: Display: Triangulating static mesh mallet.001
+[2024.04.24-16.44.37:151][338]LogFbx: Display: Triangulating static mesh Plane.002
+[2024.04.24-16.44.37:153][338]LogFbx: Display: Triangulating static mesh Plane.007
+[2024.04.24-16.44.37:245][338]LogFbx: Display: Triangulating static mesh Sphere.014
+[2024.04.24-16.44.37:262][338]LogFbx: Display: Triangulating static mesh Sphere.015
+[2024.04.24-16.44.37:277][338]LogFbx: Display: Triangulating static mesh Cube.005
+[2024.04.24-16.44.37:330][338]LogFbx: Display: Triangulating static mesh Cube.001
+[2024.04.24-16.44.37:331][338]LogFbx: Display: Triangulating static mesh Cube.006
+[2024.04.24-16.44.37:384][338]LogFbx: Display: Triangulating static mesh Cube.004
+[2024.04.24-16.44.37:457][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.37:457][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.37:474][338]LogTexture: Display: Building textures: /Game/Stylized_Fur_002_basecolor.Stylized_Fur_002_basecolor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.37:476][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.37:476][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.37:506][338]LogTexture: Display: Building textures: /Game/Stylized_Fur_002_roughness.Stylized_Fur_002_roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.37:509][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.37:509][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.37:518][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.37:520][338]LogFbx: Display: Triangulating static mesh Feather.001
+[2024.04.24-16.44.37:539][338]LogTexture: Display: Building textures: /Game/Stylized_Fur_002_normal.Stylized_Fur_002_normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.37:540][338]LogFbx: Display: Triangulating static mesh FeatherStem
+[2024.04.24-16.44.37:611][338]LogFbx: Display: Triangulating static mesh Ink
+[2024.04.24-16.44.37:615][338]LogFbx: Display: Triangulating static mesh Candle.001
+[2024.04.24-16.44.37:815][338]LogFbx: Display: Triangulating static mesh CandleStand
+[2024.04.24-16.44.38:413][338]LogFbx: Display: Triangulating static mesh Plane.004
+[2024.04.24-16.44.38:434][338]LogFbx: Display: Triangulating static mesh ScrollRight
+[2024.04.24-16.44.38:663][338]LogFbx: Display: Triangulating static mesh ScrollLeft
+[2024.04.24-16.44.38:894][338]LogFbx: Display: Triangulating static mesh Plane.005
+[2024.04.24-16.44.38:913][338]LogFbx: Display: Triangulating static mesh ScrollRight.001
+[2024.04.24-16.44.39:127][338]LogFbx: Display: Triangulating static mesh ScrollLeft.001
+[2024.04.24-16.44.39:324][338]LogFbx: Display: Triangulating static mesh ScrollRight.002
+[2024.04.24-16.44.39:507][338]LogFbx: Display: Triangulating static mesh Plane.006
+[2024.04.24-16.44.39:526][338]LogFbx: Display: Triangulating static mesh ScrollLeft.002
+[2024.04.24-16.44.39:753][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.39:753][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.39:776][338]LogTexture: Display: Building textures: /Game/Wood_Wicker_002_basecolor.Wood_Wicker_002_basecolor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.39:778][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.39:779][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.39:807][338]LogTexture: Display: Building textures: /Game/Wood_Wicker_002_roughness.Wood_Wicker_002_roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.39:810][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.39:810][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.39:818][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.39:819][338]LogFbx: Display: Triangulating static mesh BezierCurve
+[2024.04.24-16.44.39:836][338]LogTexture: Display: Building textures: /Game/Wood_Wicker_002_normal.Wood_Wicker_002_normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.40:214][338]LogFbx: Display: Triangulating static mesh BezierCurve.002
+[2024.04.24-16.44.40:259][338]LogFbx: Display: Triangulating static mesh Cylinder.004
+[2024.04.24-16.44.40:609][338]LogFbx: Display: Triangulating static mesh Lid
+[2024.04.24-16.44.40:859][338]LogFbx: Display: Triangulating static mesh Handle2
+[2024.04.24-16.44.40:972][338]LogFbx: Display: Triangulating static mesh Handle1
+[2024.04.24-16.44.41:091][338]LogFbx: Display: Triangulating static mesh Cylinder.007
+[2024.04.24-16.44.41:419][338]LogFbx: Display: Triangulating static mesh Handle1.001
+[2024.04.24-16.44.41:541][338]LogFbx: Display: Triangulating static mesh Handle2.001
+[2024.04.24-16.44.41:665][338]LogFbx: Display: Triangulating static mesh Cylinder.005
+[2024.04.24-16.44.42:024][338]LogFbx: Display: Triangulating static mesh Lid.002
+[2024.04.24-16.44.42:260][338]LogFbx: Display: Triangulating static mesh Cylinder.006
+[2024.04.24-16.44.42:566][338]LogFbx: Display: Triangulating static mesh Lid.001
+[2024.04.24-16.44.42:824][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.42:825][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.42:847][338]LogTexture: Display: Building textures: /Game/Metal_Galvanized_001_basecolor_ncl1_1.Metal_Galvanized_001_basecolor_ncl1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.42:849][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.42:850][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.42:878][338]LogTexture: Display: Building textures: /Game/Metal_Galvanized_001_roughness_ncl1_1.Metal_Galvanized_001_roughness_ncl1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.42:880][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.42:881][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.42:888][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.42:889][338]LogFbx: Display: Triangulating static mesh Cylinder.008
+[2024.04.24-16.44.42:896][338]LogFbx: Display: Triangulating static mesh Cylinder.009
+[2024.04.24-16.44.42:905][338]LogTexture: Display: Building textures: /Game/Metal_Galvanized_001_normal_ncl1_1.Metal_Galvanized_001_normal_ncl1_1 (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.42:930][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.42:930][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.42:960][338]LogTexture: Display: Building textures: /Game/Metal_Galvanized_001_basecolor_ncl1_2.Metal_Galvanized_001_basecolor_ncl1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.42:963][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.42:963][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.42:997][338]LogTexture: Display: Building textures: /Game/Metal_Galvanized_001_roughness_ncl1_2.Metal_Galvanized_001_roughness_ncl1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.42:999][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.43:000][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.43:009][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.43:023][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.43:023][338]LogTexture: Display: Building textures: /Game/Metal_Galvanized_001_normal_ncl1_2.Metal_Galvanized_001_normal_ncl1_2 (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.43:025][338]LogFbx: Display: Triangulating static mesh Cylinder.010
+[2024.04.24-16.44.43:056][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.43:057][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.43:088][338]LogTexture: Display: Building textures: /Game/Wood_plancks_004_COLOR_ncl1_2.Wood_plancks_004_COLOR_ncl1_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.43:090][338]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.04.24-16.44.43:090][338]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.04.24-16.44.43:097][338]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.43:098][338]LogFbx: Display: Triangulating static mesh Cylinder.011
+[2024.04.24-16.44.43:100][338]LogFbx: Display: Triangulating static mesh Cylinder.012
+[2024.04.24-16.44.43:103][338]LogFbx: Display: Triangulating static mesh Cylinder.013
+[2024.04.24-16.44.43:109][338]LogTexture: Display: Building textures: /Game/Wood_plancks_004_NRM_ncl1_2.Wood_plancks_004_NRM_ncl1_2 (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.04.24-16.44.43:114][338]LogFbx: Display: Triangulating static mesh Bottle 3
+[2024.04.24-16.44.43:161][338]LogFbx: Display: Triangulating static mesh Cylinder.014
+[2024.04.24-16.44.43:232][338]LogFbx: Display: Triangulating static mesh Cauldron
+[2024.04.24-16.44.43:257][338]LogFbx: Display: Triangulating static mesh cauldron handles
+[2024.04.24-16.44.43:274][338]LogFbx: Display: Triangulating static mesh Cupboard.001
+[2024.04.24-16.44.43:294][338]LogFbx: Display: Triangulating static mesh Cupboard.002
+[2024.04.24-16.44.43:316][338]LogFbx: Display: Triangulating static mesh Cupboard.003
+[2024.04.24-16.44.43:338][338]LogFbx: Display: Triangulating static mesh Cupboard.004
+[2024.04.24-16.44.43:360][338]LogFbx: Display: Triangulating static mesh Cupboard.005
+[2024.04.24-16.44.43:380][338]LogFbx: Display: Triangulating static mesh Cupboard.006
+[2024.04.24-16.44.43:411][338]LogFbx: Display: Triangulating static mesh Cupboard
+[2024.04.24-16.44.43:413][338]LogFbx: Display: Triangulating static mesh Cube.007
+[2024.04.24-16.44.43:414][338]LogFbx: Display: Triangulating static mesh Cube.009
+[2024.04.24-16.44.43:414][338]LogFbx: Display: Triangulating static mesh Cube.010
+[2024.04.24-16.44.43:414][338]LogFbx: Display: Triangulating static mesh Cupboard Feet
+[2024.04.24-16.44.43:415][338]LogFbx: Display: Triangulating static mesh Cube
+[2024.04.24-16.44.43:418][338]LogFbx: Display: Triangulating static mesh Cube.008
+[2024.04.24-16.44.43:422][338]LogFbx: Display: Triangulating static mesh Cube.011
+[2024.04.24-16.44.43:427][338]LogFbx: Display: Triangulating static mesh Cube.012
+[2024.04.24-16.44.43:430][338]LogFbx: Display: Triangulating static mesh Cube.020
+[2024.04.24-16.44.43:435][338]LogFbx: Display: Triangulating static mesh Feather
+[2024.04.24-16.44.43:440][338]LogFbx: Display: Triangulating static mesh Pot
+[2024.04.24-16.44.44:331][338]LogStaticMesh: Display: Building static mesh plank1...
+[2024.04.24-16.44.48:541][338]LogStaticMesh: Built static mesh [4.21s] /Game/plank1.plank1
+[2024.04.24-16.44.50:020][338]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.2Mb total, 0.1Mb always loaded, 31% occupied, 199644 triangles, plank1
+[2024.04.24-16.44.50:402][338]LogStaticMesh: Warning: plank1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.04.24-16.44.50:402][338]LogStaticMesh: Warning: plank1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.04.24-16.44.50:402][338]LogStaticMesh: Warning: plank1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.04.24-16.44.51:634][338]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Wood_plancks_004_COLOR' was renamed 'Wood_plancks_004_COLOR_ncl1_1' 
+[2024.04.24-16.44.51:634][338]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Wood_plancks_004_NRM' was renamed 'Wood_plancks_004_NRM_ncl1_1' 
+[2024.04.24-16.44.51:634][338]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture '360_F_366101427_8yazUJK82fDrLi4YtpnQO3DJ4dTygxoe' was renamed '360_F_366101427_8yazUJK82fDrLi4YtpnQO3DJ4dTygxoe_ncl1_1' 
+[2024.04.24-16.44.51:634][338]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Metal_Galvanized_001_basecolor' was renamed 'Metal_Galvanized_001_basecolor_ncl1_1' 
+[2024.04.24-16.44.51:634][338]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Metal_Galvanized_001_roughness' was renamed 'Metal_Galvanized_001_roughness_ncl1_1' 
+[2024.04.24-16.44.51:634][338]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Metal_Galvanized_001_normal' was renamed 'Metal_Galvanized_001_normal_ncl1_1' 
+[2024.04.24-16.44.51:634][338]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Metal_Galvanized_001_basecolor' was renamed 'Metal_Galvanized_001_basecolor_ncl1_2' 
+[2024.04.24-16.44.51:634][338]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Metal_Galvanized_001_roughness' was renamed 'Metal_Galvanized_001_roughness_ncl1_2' 
+[2024.04.24-16.44.51:634][338]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Metal_Galvanized_001_normal' was renamed 'Metal_Galvanized_001_normal_ncl1_2' 
+[2024.04.24-16.44.51:634][338]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Wood_plancks_004_COLOR' was renamed 'Wood_plancks_004_COLOR_ncl1_2' 
+[2024.04.24-16.44.51:634][338]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Wood_plancks_004_NRM' was renamed 'Wood_plancks_004_NRM_ncl1_2' 
+[2024.04.24-16.44.51:634][338]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.24-16.44.51:634][338]FBXImport: Warning: plank1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.04.24-16.44.51:634][338]FBXImport: Warning: plank1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2024.04.24-16.44.51:634][338]FBXImport: Warning: plank1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.04.24-16.44.51:736][338]LogStaticMesh: Display: Building static mesh plank1...
+[2024.04.24-16.44.52:502][342]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.44.52:502][342]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.24-16.44.52:502][342]LogShaderCompilers: Display: Total job queries 124, among them cache hits 6 (4.84%)
+[2024.04.24-16.44.52:502][342]LogShaderCompilers: Display: Tracking 86 distinct input hashes that result in 56 distinct outputs (65.12%)
+[2024.04.24-16.44.52:502][342]LogShaderCompilers: Display: RAM used: 1.75 MiB of 819.20 MiB budget. Usage: 0.21%
+[2024.04.24-16.44.52:503][342]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.24-16.44.52:503][342]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.24-16.44.52:503][342]LogShaderCompilers: Display: Jobs assigned 8, completed 0 (0.00%)
+[2024.04.24-16.44.52:503][342]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.13 s
+[2024.04.24-16.44.52:503][342]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.24-16.44.52:503][342]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.24-16.44.52:503][342]LogShaderCompilers: Display: ================================================
+[2024.04.24-16.44.53:544][380]LogSlate: Window 'Message Log' being destroyed
+[2024.04.24-16.44.53:577][380]LogSlate: Window 'Message Log' being destroyed
+[2024.04.24-16.44.55:265][471]Cmd: TRANSACTION UNDO
+[2024.04.24-16.44.55:266][471]LogEditorTransaction: Undo Delete Elements
+[2024.04.24-16.44.55:427][471]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.44.55:462][471]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.24-16.44.58:980][612]Cmd: DELETE
+[2024.04.24-16.44.58:980][612]Cmd: ACTOR DELETE
+[2024.04.24-16.44.58:999][612]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/plank1) ...
+[2024.04.24-16.44.59:266][612]LogStaticMesh: Built static mesh [7.53s] /Game/plank1.plank1
+[2024.04.24-16.45.00:442][612]LogStaticMesh: Warning: plank1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.04.24-16.45.00:442][612]LogStaticMesh: Warning: plank1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.04.24-16.45.00:442][612]LogStaticMesh: Warning: plank1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.04.24-16.45.00:473][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.24-16.45.00:486][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.24-16.45.00:489][612]LogEditorActor: Deleted 1 Actors (1.509 secs)
+[2024.04.24-16.45.00:499][612]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.45.02:126][670]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 1.2Mb total, 0.1Mb always loaded, 31% occupied, 199644 triangles, plank1
+[2024.04.24-16.45.12:126][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.24-16.45.13:300][246]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-16.45.13:323][246]LogUObjectGlobals: Force Deleting 14 Package(s):
+	Asset Name: /Game/Wood_014_COLOR.Wood_014_COLOR
+	Asset Type: Texture2D
+	Asset Name: /Game/Wood_014_ROUGH.Wood_014_ROUGH
+	Asset Type: Texture2D
+	Asset Name: /Game/Wood_plancks_004_COLOR.Wood_plancks_004_COLOR
+	Asset Type: Texture2D
+	Asset Name: /Game/Wood_plancks_004_COLOR_ncl1_1.Wood_plancks_004_COLOR_ncl1_1
+	Asset Type: Texture2D
+	Asset Name: /Game/Wood_plancks_004_COLOR_ncl1_2.Wood_plancks_004_COLOR_ncl1_2
+	Asset Type: Texture2D
+	Asset Name: /Game/Wood_plancks_004_NRM.Wood_plancks_004_NRM
+	Asset Type: Texture2D
+	Asset Name: /Game/Wood_plancks_004_NRM_ncl1_1.Wood_plancks_004_NRM_ncl1_1
+	Asset Type: Texture2D
+	Asset Name: /Game/Wood_plancks_004_NRM_ncl1_2.Wood_plancks_004_NRM_ncl1_2
+	Asset Type: Texture2D
+	Asset Name: /Game/Wood_Wicker_002_basecolor.Wood_Wicker_002_basecolor
+	Asset Type: Texture2D
+	Asset Name: /Game/Wood_Wicker_002_normal.Wood_Wicker_002_normal
+	Asset Type: Texture2D
+[2024.04.24-16.45.13:561][246]LogMaterial: Warning: [AssetLog] /Game/Material_010.Material_010: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.24-16.45.13:561][246]LogMaterial: Warning: Material_010: Requesting an invalid TextureIndex! (1 / 0)
+[2024.04.24-16.45.13:563][246]LogMaterial: Warning: [AssetLog] /Game/Material_010.Material_010: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.24-16.45.13:565][246]LogMaterial: Warning: [AssetLog] /Game/DarkWood.DarkWood: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.24-16.45.13:567][246]LogMaterial: Warning: [AssetLog] /Game/DarkWood.DarkWood: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.24-16.45.13:568][246]LogMaterial: Warning: [AssetLog] /Game/WoodPlank.WoodPlank: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.24-16.45.13:569][246]LogMaterial: Warning: [AssetLog] /Game/WoodPlank.WoodPlank: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.24-16.45.13:570][246]LogMaterial: Warning: [AssetLog] /Game/Wicker.Wicker: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.24-16.45.13:571][246]LogMaterial: Warning: [AssetLog] /Game/WoodPlank_001.WoodPlank_001: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.24-16.45.13:615][246]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/plank1) ...
+[2024.04.24-16.45.14:939][246]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/plank1) ...
+[2024.04.24-16.45.16:313][246]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.45.16:552][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.24-16.45.16:563][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.24-16.45.16:572][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.04.24-16.45.16:728][250]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.45.18:809][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.04.24-16.45.19:536][352]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-16.45.19:582][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.24-16.45.19:594][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.24-16.45.19:605][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.24-16.45.21:543][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.04.24-16.45.22:425][463]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-16.45.22:446][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.24-16.45.22:459][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.24-16.45.22:468][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.24-16.45.24:749][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.24-16.45.25:487][594]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-16.45.25:505][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.24-16.45.25:517][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.24-16.45.25:527][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.04.24-16.45.28:235][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.04.24-16.45.29:794][755]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-16.45.29:817][755]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Stylized_Fur_002_roughness.Stylized_Fur_002_roughness
+	Asset Type: Texture2D
+	Asset Name: /Game/Stylized_Fur_002_basecolor.Stylized_Fur_002_basecolor
+	Asset Type: Texture2D
+	Asset Name: /Game/Stylized_Fur_002_normal.Stylized_Fur_002_normal
+	Asset Type: Texture2D
+[2024.04.24-16.45.29:939][755]LogMaterial: Warning: [AssetLog] /Game/Fur.Fur: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.24-16.45.29:941][755]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.45.29:987][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.24-16.45.29:998][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.04.24-16.45.30:007][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.04.24-16.45.30:875][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.04.24-16.45.31:629][800]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-16.45.31:648][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.24-16.45.31:660][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.24-16.45.31:670][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.04.24-16.45.34:381][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.24-16.45.35:273][953]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-16.45.35:305][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.24-16.45.35:319][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.24-16.45.35:329][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.24-16.45.37:269][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.24-16.45.38:098][ 65]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-16.45.38:122][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.04.24-16.45.38:134][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.24-16.45.38:144][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.04.24-16.45.40:780][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.04.24-16.45.41:545][218]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-16.45.41:564][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.24-16.45.41:575][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.24-16.45.41:587][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.24-16.45.43:857][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.24-16.45.44:783][350]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-16.45.44:805][350]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Ground_Wet_002_roughness.Ground_Wet_002_roughness
+	Asset Type: Texture2D
+	Asset Name: /Game/Ground_Wet_002_basecolor.Ground_Wet_002_basecolor
+	Asset Type: Texture2D
+	Asset Name: /Game/Ground_Wet_002_normal.Ground_Wet_002_normal
+	Asset Type: Texture2D
+	Asset Name: /Game/Fur.Fur
+	Asset Type: Material
+[2024.04.24-16.45.44:922][350]LogMaterial: Warning: [AssetLog] /Game/Dirt.Dirt: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.24-16.45.44:924][350]LogMaterial: Warning: [AssetLog] /Game/Dirt.Dirt: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.24-16.45.44:925][350]LogMaterial: Warning: [AssetLog] /Game/Dirt.Dirt: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.04.24-16.45.44:926][350]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.45.44:986][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.24-16.45.44:997][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.04.24-16.45.45:006][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.04.24-16.45.46:559][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.04.24-16.45.47:289][440]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-16.45.47:308][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.24-16.45.47:319][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.24-16.45.47:329][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.04.24-16.45.49:799][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.04.24-16.45.50:558][585]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-16.45.50:587][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.04.24-16.45.50:596][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.04.24-16.45.50:609][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.24-16.45.53:556][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.24-16.45.54:538][756]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.24-16.45.54:559][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.04.24-16.45.54:571][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.24-16.45.54:581][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.04.24-16.45.55:571][813]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.45.55:587][814]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.45.55:605][815]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.45.55:621][816]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.45.55:637][817]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.46.09:132][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/teebe/OneDrive/Documents/GitHub/3DGroup/Hard surface texture/Ben's Textures/24_04_24 models/bookstack1.fbx)
+[2024.04.24-16.46.09:203][267]LogFbx: Loading FBX Scene from ../../../../../../Users/teebe/OneDrive/Documents/GitHub/3DGroup/Hard surface texture/Ben's Textures/24_04_24 models/bookstack1.fbx
+[2024.04.24-16.46.09:246][267]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.24-16.46.19:950][267]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.24-16.46.20:047][267]LogFbx: Display: Triangulating static mesh Cube.021
+[2024.04.24-16.46.20:109][267]LogFbx: Display: Triangulating static mesh Cube.022
+[2024.04.24-16.46.20:170][267]LogFbx: Display: Triangulating static mesh Cube.023
+[2024.04.24-16.46.20:227][267]LogFbx: Display: Triangulating static mesh Cube.024
+[2024.04.24-16.46.20:285][267]LogFbx: Display: Triangulating static mesh Cube.025
+[2024.04.24-16.46.20:344][267]LogFbx: Display: Triangulating static mesh Cube.026
+[2024.04.24-16.46.20:404][267]LogFbx: Display: Triangulating static mesh Cube.027
+[2024.04.24-16.46.20:505][267]LogStaticMesh: Display: Building static mesh bookstack1...
+[2024.04.24-16.46.20:758][267]LogStaticMesh: Built static mesh [0.25s] /Game/bookstack1.bookstack1
+[2024.04.24-16.46.20:832][267]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.24-16.46.20:895][267]LogStaticMesh: Display: Building static mesh bookstack1...
+[2024.04.24-16.46.21:136][272]LogStaticMesh: Built static mesh [0.24s] /Game/bookstack1.bookstack1
+[2024.04.24-16.46.22:062][324]LogSlate: Window 'Message Log' being destroyed
+[2024.04.24-16.46.22:067][324]LogSlate: Window 'Message Log' being destroyed
+[2024.04.24-16.46.23:572][412]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/bookstack1.bookstack1
+[2024.04.24-16.46.23:629][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.24-16.46.23:630][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.24-16.46.24:049][412]LogViewport: Scene viewport resized to 1046x733, mode Windowed.
+[2024.04.24-16.46.24:631][415]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.46.32:702][829]LogSlate: Took 0.003981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.24-16.46.33:029][834]LogStaticMesh: Warning: Invalid material [Glass] used on Nanite static mesh [Bucket] - forcing default material instead. Only opaque blend mode is currently supported, [BLEND_Translucent] blend mode was specified.
+[2024.04.24-16.46.35:773][977]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/bookstack1) ...
+[2024.04.24-16.46.53:070][914]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/bookstack1) ...
+[2024.04.24-16.46.59:353][238]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/bookstack1) ...
+[2024.04.24-16.47.04:892][540]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/bookstack1) ...
+[2024.04.24-16.47.46:139][979]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.24-16.47.46:139][979]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.24-16.48.20:023][ 12]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.04.24-16.48.49:648][759]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/bookstack1) ...
+[2024.04.24-16.48.52:306][897]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/bookstack1) ...
+[2024.04.24-16.48.56:131][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-16.48.56:231][ 93]LogSavePackage: Moving output files for package: /Game/bookstack1
+[2024.04.24-16.48.56:231][ 93]LogSavePackage: Moving '../../../../../../Users/teebe/OneDrive/Documents/GitHub/3DGroup/Hard surface texture/Ben's Textures/AssetTestUnrealProject/AssetTest/Saved/bookstack1F8CF52D64FAEF3AE8A4C4191B1503785.tmp' to '../../../../../../Users/teebe/OneDrive/Documents/GitHub/3DGroup/Hard surface texture/Ben's Textures/AssetTestUnrealProject/AssetTest/Content/bookstack1.uasset'
+[2024.04.24-16.48.56:241][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 535 ms)
+[2024.04.24-16.48.56:245][ 93]AssetCheck: New page: Asset Save: bookstack1
+[2024.04.24-16.48.56:245][ 93]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/bookstack1.bookstack1
+[2024.04.24-16.48.59:777][283]LogSlate: Window 'bookstack1' being destroyed
+[2024.04.24-16.48.59:783][283]LogSlate: Window 'bookstack1' being destroyed
+[2024.04.24-16.48.59:826][283]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.24-16.48.59:826][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.24-16.52.22:531][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.24-16.52.22:534][ 18]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
+[2024.04.24-17.02.22:955][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.24-17.02.22:956][819]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.04.24-17.08.09:869][860]LogDerivedDataCache: C:/Users/teebe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.173 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8521 files in 10672 folders with total size 930 MiB.
+[2024.04.24-17.12.23:399][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.24-17.12.23:400][620]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
+[2024.04.24-17.22.23:830][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.04.24-17.22.23:830][421]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
