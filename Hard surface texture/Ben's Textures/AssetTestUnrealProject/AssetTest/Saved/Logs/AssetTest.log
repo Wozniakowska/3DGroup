@@ -1900,3 +1900,7 @@ Script Stack (0 frames) :
 [2024.04.24-17.12.23:400][620]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.011
 [2024.04.24-17.22.23:830][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
 [2024.04.24-17.22.23:830][421]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2024.04.24-17.32.24:620][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.04.24-17.32.24:622][223]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.015
+[2024.04.24-17.42.25:053][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.04.24-17.42.25:054][ 24]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.012
